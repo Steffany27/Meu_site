@@ -1,3 +1,10 @@
+## Versão Final — 16/11/2026 (fim de vida)
+
+- Motivo: fim da disciplina
+- Aviso: mensagem no próprio site
+- Dados: o código fica no repositório
+- Substituto: nenhum
+
 # Histórico de versões
 ## Versão 5 — publicada em 19/10
 
